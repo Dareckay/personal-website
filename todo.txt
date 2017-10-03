@@ -1,0 +1,5 @@
+- write header
+- write content
+- write html
+- write css
+- add images
