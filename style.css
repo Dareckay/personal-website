@@ -1,0 +1,12 @@
+.header-main {
+	background-image: url("https://images.pexels.com/photos/236950/pexels-photo-236950.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+	height: 200px;
+	text-align: center;
+	font-family: Karla;
+	margin-bottom: 40px;
+}
+h1 {
+	color: #fff;
+	font-size: 70px;
+	opacity:1.5;
+}
