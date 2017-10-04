@@ -45,3 +45,13 @@ strong {
 ul {
 	list-style: none;
 }
+.image{
+	width: 50%
+}
+
+#picme {
+	float:right;
+	width:70%;
+	position: relative;
+	display:inline-block;
+}
