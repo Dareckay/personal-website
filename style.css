@@ -10,3 +10,38 @@ h1 {
 	font-size: 70px;
 	opacity:1.5;
 }
+.header-main h1{
+	display: block;
+	margin: 0;
+	line-height: 200px;
+}
+.about-me{
+	padding-left: 12px;
+	text-align: left;
+	font-family: Karla;
+	width: 40%;
+	position: relative;
+	display: inline-block;
+}
+p {
+    color: #FFF;
+    font-size: 20px;
+}
+
+a {
+    color: #8b7244;
+    font-size: 20px;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+strong {
+	text-transform: uppercase;
+	color: #8b7244;
+}
+ul {
+	list-style: none;
+}
